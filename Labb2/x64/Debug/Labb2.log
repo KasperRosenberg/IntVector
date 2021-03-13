@@ -1,0 +1,5 @@
+﻿  IntVector.cpp
+D:\Program\Visual studio projects\Labb2\IntVector.cpp(31,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+  Generating Code...
+  Labb2.vcxproj -> D:\Program\Visual studio projects\Labb2\x64\Debug\Labb2.exe

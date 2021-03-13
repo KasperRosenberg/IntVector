@@ -1,0 +1,2 @@
+D:\Program\Visual studio projects\Labb2\x64\Debug\Labb2.exe
+D:\Program\Visual studio projects\Labb2\x64\Debug\Labb2.pdb
